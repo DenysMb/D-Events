@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "id": 1659265823721,
+      "title": "Test event",
+      "description": "This is just a test event",
+      "organizer": "",
+      "location": "",
+      "date": "2022-07-31T11:10:09.149Z"
+    },
+    {
+      "id": 1659265870686,
+      "title": "Test event with Organizer and Location",
+      "description": "This is just a test event with Organizer and Location",
+      "organizer": "Ms. Organizer",
+      "location": "Organizer's Building",
+      "date": "2022-07-20T11:10:00.000Z"
+    }
+  ]
+}
